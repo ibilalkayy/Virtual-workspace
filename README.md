@@ -85,5 +85,5 @@ The sixth directory contains a lot of subdirectories and files. You can make thi
 ## Author Info
 
 - YouTube - [ibilalkayy](https://www.youtube.com/channel/UCBLTfRg0Rgm4FtXkvql7DRQ)
-- LinkedIn - [@ibilalkayy](https://www.linkedin.com/in/ibilalkayy/)
-
+- LinkedIn - [ibilalkayy](https://www.linkedin.com/in/ibilalkayy/)
+- Twitter - [ibilalkayy](https://twitter.com/ibilalkayy)
